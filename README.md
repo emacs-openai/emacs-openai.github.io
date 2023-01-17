@@ -1,1 +1,3 @@
-# emacs-openai.github.io
+# emacs-openai
+
+Emacs OpenAI site
